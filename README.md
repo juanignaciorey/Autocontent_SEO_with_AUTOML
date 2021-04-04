@@ -37,14 +37,15 @@ Luego, los subtemas se discuten con mayor detalle en las páginas de jerarquía 
 
 Los pasos realizados los iré anotando a continuación. Donde también se proveera un easy-to-get-started demo using Google Colab!
 
-
 | Description      | Link |
 | ----------- | ----------- |
+| Creando entorno de desarrollo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m57r-jgzU0fIyRz4UvtvXD7NBqz84vZ-#scrollTo=WTHJrdkDntCV)|
 | Brainstorming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 | 01 Keyword Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ltUREhLAP0_xahE5k8FWG8_b6c-7bnS)|
-| Creando entorno de desarrollo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 | Scrapeando contenido | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-| Creando entorno de desarrollo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| Feature Enginering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 | Train Model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 | Render a Auto Content video| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| 09-Instalando wp | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_48lVJ2w9C0u36jBAJNc9PlFILkDZV9Q?authuser=3#scrollTo=BIBJn7Aen9yp)|
+
  
