@@ -42,6 +42,7 @@ Los pasos realizados los iré anotando a continuación. Donde también se provee
 | Creando entorno de desarrollo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m57r-jgzU0fIyRz4UvtvXD7NBqz84vZ-#scrollTo=WTHJrdkDntCV)|
 | Brainstorming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UOXlhpEb3iw8hLm7wM90z8lziskjQigp#scrollTo=19lAYydSgru3)|
 | 01 Keyword Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ltUREhLAP0_xahE5k8FWG8_b6c-7bnS)|
+| ML  | |
 | Get Data: Scrapeando contenido | |
 | Clean, Prepare & Manipulate Data | |
 | Feature Enginering | |
@@ -49,6 +50,10 @@ Los pasos realizados los iré anotando a continuación. Donde también se provee
 | Train Model  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 | Inprove      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 | Render a Auto Content video| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| WP | |
 | 09 Instalando wp | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_48lVJ2w9C0u36jBAJNc9PlFILkDZV9Q?authuser=3#scrollTo=BIBJn7Aen9yp)|
+| Estructurar datos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| Auto -> Generar calendario de contenido | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| Auto -> Mantener enlaces | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 
  
