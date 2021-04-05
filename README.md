@@ -30,7 +30,6 @@ UX
 
 
 “topic clusters.” hacen foco en paginas pilares las cuales presentan el contenido mas importante. Estas serán páginas amplias y generales que ocupan un lugar destacado en su jerarquía de información e intentan discutir y responder las preguntas más importantes relacionadas con su tema principal.
-These will be broad, overarching pages that rank high in your information hierarchy and attempt to discuss and answer the most important questions related to your main topic.
 
 Luego, los subtemas se discuten con mayor detalle en las páginas de jerarquía inferior que contienen enlaces internos a la página del pilar. Esta estrategia ayuda a comunicar sus páginas más importantes a través de una estructura de interconexión sofisticada, promueve una navegación fluida y ayuda a posicionar su página pilar para clasificar para múltiples frases de palabras clave.
 
@@ -43,10 +42,13 @@ Los pasos realizados los iré anotando a continuación. Donde también se provee
 | Creando entorno de desarrollo | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m57r-jgzU0fIyRz4UvtvXD7NBqz84vZ-#scrollTo=WTHJrdkDntCV)|
 | Brainstorming | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UOXlhpEb3iw8hLm7wM90z8lziskjQigp#scrollTo=19lAYydSgru3)|
 | 01 Keyword Research | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16ltUREhLAP0_xahE5k8FWG8_b6c-7bnS)|
-| Scrapeando contenido | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-| Feature Enginering | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-| Train Model | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| Get Data: Scrapeando contenido | |
+| Clean, Prepare & Manipulate Data | |
+| Feature Enginering | |
+| Model Select | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| Train Model  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
+| Inprove      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 | Render a Auto Content video| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
-| 09-Instalando wp | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_48lVJ2w9C0u36jBAJNc9PlFILkDZV9Q?authuser=3#scrollTo=BIBJn7Aen9yp)|
+| 09 Instalando wp | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_48lVJ2w9C0u36jBAJNc9PlFILkDZV9Q?authuser=3#scrollTo=BIBJn7Aen9yp)|
 
  
