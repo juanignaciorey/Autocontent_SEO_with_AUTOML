@@ -57,3 +57,20 @@ Los pasos realizados los iré anotando a continuación. Donde también se provee
 | Auto -> Mantener enlaces | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](#)|
 
  
+## Folders
+
+'''
+./Autocontent_SEO_with_AUTOML
+│
+└─── Notebooks
+│   └─ ... all notebooks explained
+│       └─  /assets
+│
+│   └─ /data
+│       └─  /csv
+│
+│   └─ /assets
+│
+└─── requirements.txt
+└─── READ.md
+'''
